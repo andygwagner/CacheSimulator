@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Old Code\CacheSimulator\CacheSimulator\Source.cpp(270,20): warning C4018: '<': signed/unsigned mismatch
+  CacheSimulator.vcxproj -> D:\Old Code\CacheSimulator\Debug\CacheSimulator.exe
